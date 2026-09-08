@@ -531,7 +531,7 @@ Também é importante verificar se os mecanismos não estão travados, pois um s
 
 ---
 
-# 🏫 Oficina da Toledo
+# 🏫 Equipe
 
 Este projeto representa a aplicação prática de conhecimentos de **programação, eletrônica e robótica** em uma construção interativa.
 
